@@ -1,0 +1,3 @@
+[submodule "src/sha2-attack"]
+	path = src/sha2-attack
+	url = git@github.com:fortify-iq/sha2-attack.git
